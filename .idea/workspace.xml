@@ -26,7 +26,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2b0cafcd-c5f4-47a0-8c59-5e9be98d0491" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +198,8 @@
       <workItem from="1601925504217" duration="101000" />
       <workItem from="1602487140540" duration="6082000" />
       <workItem from="1602575423053" duration="62000" />
-      <workItem from="1602975584623" duration="203000" />
+      <workItem from="1602975584623" duration="448000" />
+      <workItem from="1603093339350" duration="6547000" />
     </task>
     <servers />
   </component>
@@ -217,6 +219,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="253" key="#Notifications" timestamp="1603098037844">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="555" y="253" key="#Notifications/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1603098037844" />
+    <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603099876106">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1603099876106" />
     <state x="321" y="300" key="NewPhpFileDialog" timestamp="1601887021353">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
